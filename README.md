@@ -15,4 +15,3 @@
 </ul>
 <p>De las cuales se conecta con exito a la BD MySQL, ya que la BD PostgreSQL presenta un error en la conexión.</p>
 <p>Para cambiar de BD solo es necesario ingresar al archivo Web.xml ubicado dentro de la ruta WebContent>WEB-INF>web.xml y cambiar el param-value a mysql o postgresql</p>
-<p>Proximamente se hará la actualización del proyecto para su total funcionamiento.</p>
